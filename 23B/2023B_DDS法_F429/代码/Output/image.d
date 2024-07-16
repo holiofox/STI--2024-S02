@@ -1,0 +1,10 @@
+..\..\output\image.o: ..\..\User\image.c
+..\..\output\image.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+..\..\output\image.o: ..\..\STemWin\inc\GUI.h
+..\..\output\image.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+..\..\output\image.o: ..\..\STemWin\inc\GUI_ConfDefaults.h
+..\..\output\image.o: ..\..\STemWin\Config\GUIConf.h
+..\..\output\image.o: ..\..\STemWin\inc\GUI_Type.h
+..\..\output\image.o: ..\..\STemWin\inc\LCD.h
+..\..\output\image.o: ..\..\STemWin\inc\Global.h
+..\..\output\image.o: ..\..\STemWin\inc\GUI_Version.h
